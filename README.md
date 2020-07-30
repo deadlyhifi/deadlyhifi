@@ -2,6 +2,7 @@
 
 * I’m all about the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
 * Sometimes, when the stars align, I blog at [deadlyhifi.wordpress.com](https://deadlyhifi.wordpress.com/).
+* I love mountain biking and _Back to the Future_.
 
 <!--
 **deadlyhifi/deadlyhifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
