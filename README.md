@@ -1,5 +1,6 @@
-### Hi there 👋
+### ↯ Hello Whirled ↯
 
+I’m all about the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
 <!--
 **deadlyhifi/deadlyhifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
