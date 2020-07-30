@@ -1,6 +1,8 @@
 ### ↯ Hello Whirled ↯
 
-I’m all about the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
+* I’m all about the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
+* Sometimes, when the stars align, I blog at [deadlyhifi.wordpress.com](https://deadlyhifi.wordpress.com/).
+
 <!--
 **deadlyhifi/deadlyhifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
