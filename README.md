@@ -1,5 +1,6 @@
 ### ↯ Hello Whirled ↯
 
+* ![Tom de Bruin](https://badgen.net/badge/tom/de%20bruin/green?icon=awesome&scale=1 "Tom de Bruin")
 * I’m all about the [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma).
 * Sometimes, when the stars align, I blog at [deadlyhifi.wordpress.com](https://deadlyhifi.wordpress.com/).
 * I love mountain biking and _Back to the Future_.
